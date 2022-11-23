@@ -1,0 +1,10 @@
+303	(IS,04)	AREG,A
+304	(DL,01)	(C,70)
+305	(IS,00)
+306	(IS,01)	AREG,B
+307	(IS,07)	le,up
+308	(IS,09)	A
+309	(IS,10)	B
+311	(IS,02)	creg,A
+312	(IS,02)	creg,up
+313	(IS,03)	dreg,up
